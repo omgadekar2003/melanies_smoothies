@@ -4,5 +4,5 @@
 #dependencies:
  # - python=3.8.*
 #requirements.txt 
-snowflake-snowpark-python=
+snowflake-snowpark-python
 streamlit
